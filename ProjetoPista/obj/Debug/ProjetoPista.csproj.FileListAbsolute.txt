@@ -1,0 +1,14 @@
+C:\Users\Eu\source\repos\YoutubeAI\ProjetoPista\bin\Debug\ProjetoPista.exe.config
+C:\Users\Eu\source\repos\YoutubeAI\ProjetoPista\bin\Debug\ProjetoPista.exe
+C:\Users\Eu\source\repos\YoutubeAI\ProjetoPista\bin\Debug\ProjetoPista.pdb
+C:\Users\Eu\source\repos\YoutubeAI\ProjetoPista\obj\Debug\ProjetoPista.csprojAssemblyReference.cache
+C:\Users\Eu\source\repos\YoutubeAI\ProjetoPista\obj\Debug\ProjetoPista.csproj.CoreCompileInputs.cache
+C:\Users\Eu\source\repos\YoutubeAI\ProjetoPista\obj\Debug\ProjetoPista.exe
+C:\Users\Eu\source\repos\YoutubeAI\ProjetoPista\obj\Debug\ProjetoPista.pdb
+C:\Users\IANEZ\Dropbox\YoutubeAI\ProjetoPista\bin\Debug\ProjetoPista.exe.config
+C:\Users\IANEZ\Dropbox\YoutubeAI\ProjetoPista\bin\Debug\ProjetoPista.exe
+C:\Users\IANEZ\Dropbox\YoutubeAI\ProjetoPista\bin\Debug\ProjetoPista.pdb
+C:\Users\IANEZ\Dropbox\YoutubeAI\ProjetoPista\obj\Debug\ProjetoPista.csprojAssemblyReference.cache
+C:\Users\IANEZ\Dropbox\YoutubeAI\ProjetoPista\obj\Debug\ProjetoPista.csproj.CoreCompileInputs.cache
+C:\Users\IANEZ\Dropbox\YoutubeAI\ProjetoPista\obj\Debug\ProjetoPista.exe
+C:\Users\IANEZ\Dropbox\YoutubeAI\ProjetoPista\obj\Debug\ProjetoPista.pdb

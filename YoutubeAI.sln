@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeAI", "YoutubeAI\YoutubeAI.csproj", "{AC4B3011-BAD2-46F8-AF19-56E30D610834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoPista", "ProjetoPista\ProjetoPista.csproj", "{38170054-AB1A-47A4-81B6-7E8D017E1E9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedeNeural", "RedeNeural\RedeNeural.csproj", "{E8F0B9DB-636E-45FD-B1AD-B392E3EBF7F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4B3011-BAD2-46F8-AF19-56E30D610834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4B3011-BAD2-46F8-AF19-56E30D610834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4B3011-BAD2-46F8-AF19-56E30D610834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4B3011-BAD2-46F8-AF19-56E30D610834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38170054-AB1A-47A4-81B6-7E8D017E1E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38170054-AB1A-47A4-81B6-7E8D017E1E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38170054-AB1A-47A4-81B6-7E8D017E1E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38170054-AB1A-47A4-81B6-7E8D017E1E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F0B9DB-636E-45FD-B1AD-B392E3EBF7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F0B9DB-636E-45FD-B1AD-B392E3EBF7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F0B9DB-636E-45FD-B1AD-B392E3EBF7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F0B9DB-636E-45FD-B1AD-B392E3EBF7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE49FAE-34E9-46A6-A974-AB53C84C2693}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Eu\source\repos\YoutubeAI\RedeNeural\bin\Debug\RedeNeural.dll
+C:\Users\Eu\source\repos\YoutubeAI\RedeNeural\bin\Debug\RedeNeural.pdb
+C:\Users\Eu\source\repos\YoutubeAI\RedeNeural\obj\Debug\RedeNeural.csprojAssemblyReference.cache
+C:\Users\Eu\source\repos\YoutubeAI\RedeNeural\obj\Debug\RedeNeural.csproj.CoreCompileInputs.cache
+C:\Users\Eu\source\repos\YoutubeAI\RedeNeural\obj\Debug\RedeNeural.dll
+C:\Users\Eu\source\repos\YoutubeAI\RedeNeural\obj\Debug\RedeNeural.pdb
+C:\Users\IANEZ\Dropbox\YoutubeAI\RedeNeural\bin\Debug\RedeNeural.dll
+C:\Users\IANEZ\Dropbox\YoutubeAI\RedeNeural\bin\Debug\RedeNeural.pdb
+C:\Users\IANEZ\Dropbox\YoutubeAI\RedeNeural\obj\Debug\RedeNeural.csprojAssemblyReference.cache
+C:\Users\IANEZ\Dropbox\YoutubeAI\RedeNeural\obj\Debug\RedeNeural.csproj.CoreCompileInputs.cache
+C:\Users\IANEZ\Dropbox\YoutubeAI\RedeNeural\obj\Debug\RedeNeural.dll
+C:\Users\IANEZ\Dropbox\YoutubeAI\RedeNeural\obj\Debug\RedeNeural.pdb
